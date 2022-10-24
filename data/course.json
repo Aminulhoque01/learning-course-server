@@ -2,6 +2,7 @@
     {
         "id":1,
         "name":"Web Design And Development",
+        "title":"Post Graduate Program in Full Stack Web Development",
         "details":"Designed to get you hired, this power-packed Full-Stack Developer Bootcamp features best-in-class live training, on-demand learning, plenty of hands-on exercises and assignments with Cloud Labs, and so much more. Build a stellar project portfolio, get ready to crack interviews at product-based companies, and launch your career as a Full-Stack Developer.Gain a deep understanding of how to build, deploy, secure and scale programs and build expertise across the user interface, business logic and database stacks. Learn by doing with Cloud Labs and experience working on capstone projects that simulate real-world web development. With our Full-Stack Developer Course Online, you’ll dive deeper into topics and techniques via independent and group projects, receive individualized feedback, get mentored by MAANG experts, hone your skills in hackathons spread across the program, and get intense interview preparation and career launch support.This beginner-friendly Full-Stack Web Development Course is offered online in blended learning mode, and also in an on-demand self-paced format. This is your chance to prepare for the world of work as a Full-Stack Developer in a product-based company, compile a job-ready project portfolio and become a self-sufficient, versatile software developer with all the critical skills for a long and healthy career in tech.",
         "img":"https://cdn-cllme.nitrocdn.com/fsJtPHuAIrjqkSrOmOGUpPSluVVKYWgR/assets/static/optimized/rev-13dc1fd/courses/layouts/7bab92ae-bb3b-4682-83bb-60d8defbd1e8.png"
         
@@ -9,6 +10,7 @@
     {
         "id":2,
         "name":"App Development",
+        "title":"Learn app development online from the world's leading universities on edX!",
         "details":"Take your Android coding skills to the next level in our self-paced Advanced Android Development training, which is available at no charge. The course uses the Java programming language and teaches you ways to expand the user experience, improve app performance, and add features like custom views, animations, and location-awareness.Each lesson includes a tutorial with solution code in GitHub, concept documentation, and a slide deck.Learn about app widgets, which are miniature app views that appear on the Android home screen. Discover how to add widgets to your project, handle update requests, and make widgets interactive.You learn how to measure and improve rendering and memory performance, and you learn best practices for network calls, battery use, and data compression. You use the Android Profiler tools that come with Android Studio, plus command-line tools and tools on the device.This lesson explains when, why, and how to use fragments. You learn how to include a fragment in your activity's UI, either by including it statically or dynamically. You also learn how an activity communicates with fragments. You implement a typical scenario for fragments by building an app that has a master/detail layout",
         "img":"https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlJTIwYXBwJTIwZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
 
@@ -17,19 +19,22 @@
     {
         "id":3,
         "name":"Graphic Design",
+        "title":"Graphic Design Specialization",
         "details":"Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience.Although to work in the digital age means you must design with interactive software, graphic design still revolves around age-old principles. It’s crucial that you strike the right chord with users from their first glance—hence graphic design’s correspondence with emotional design. As a graphic designer, then, you should have a firm understanding of color theory and how vital the right choice of color scheme is. Color choices must reflect not only the organization (e.g., blue suits banking) but also users’ expectations (e.g., red for alerts; green for notifications to proceed). You should design with an eye for how elements match the tone (e.g., sans-serif fonts for excitement or happiness). You also need to design for the overall effect, and note how you shape users’ emotions as you guide them from, for instance, a landing page to a call to action. Often, graphic designers are involved in motion design for smaller screens. They will carefully monitor how their works’ aesthetics match their users’ expectations.",
         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIQiyQcmJOLtWavR440io4zePLexKD3prYMA&usqp=CAU"
 
     },
     {
         "id":4,
-        "name":"Degital Marketing",
+        "name":"Digital Marketing",
+        "title":"Digital Marketing & E-commerce Professional Certificate",
         "details":"Digital marketing is the practice of promoting products or services with the help of digital devices and technology.In simple words, digital marketing is any form of marketing that occurs online with the help of mobile, laptop, internet, etc. In addition to digital signage and technology that may not be connected to the internet. It can range from anything as complex as automated email marketing initiatives all the way down to the content choices on your website’s blog.Now, you know what is digital marketing, so let's proceed and know the types of digital marketing.Put, SEO consists of carefully structuring and optimizing your website’s pages to achieve the best position possible on search engine result pages (SERPs) when internet users perform a search on an engine like Google that’s related to your business.Every effort to market through online content is considered content marketing (and often employs SEO, paid search, and paid social advertising). For example, all these content types (and more) are grouped under the contennt.Social Media Marketing is a practice that increases brand awareness, and helps brands achieve their marketing objectives. A wide range of content buckets are available for social media marketing like videos, memes, static posts, trending posts, testimonials, stories, reels, etc.. If you perform SMM ."
 
     },
     {
       "id":5,
       "name":"Python" ,
+      "title":"Python is a programming language that lets you work quickly integrate  systems more effectively",
       "details":"Python is a popular general purpose programming language used for both large and small-scale applications. With Python, you can discover how to bridge web development and data analytics.This specialization teaches the fundamentals of programming in Python 3. We will begin at the beginning, with variables, conditionals, and loops, and get to some intermediate material like keyword parameters, list comprehensions, lambda expressions, and class inheritance.You will have lots of opportunities to practice. You will also learn ways to reason about program execution, so that it is no longer mysterious and you are able to debug programs when they don’t work.By the end of the specialization, you’ll be writing programs that query Internet APIs for data and extract useful information from them.  And you’ll be able to learn to use new modules and APIs on your own by reading the documentation. That will give you a great launch toward being an independent Python programmer.By the end of the second course, you will create a simple sentiment analyzer that counts the number of positive and negative words in tweets. In the third course, you will mash up two APIs to create a movie recommender. The final course, Python Project: pillow, tesseract, and opencv (Course "
 
 
@@ -37,6 +42,7 @@
     {
         "id":6,
         "name":"C++",
+        "title":"C++ is a cross-platform language that can be used to create high-performance applications.",
         "details":"C++ is a computer programming language created in 1983 by Bjarne Stroustrup. The C++ programming language acts as an extension to the modern C language known as standard C. C++ is known as an intermediate (low-level) language for programmers to learn.C++ is a computer programming language created in 1983 by Bjarne Stroustrup. The C++ programming language acts as an extension to the modern C language known as standard C. C++ is known as an intermediate (low-level) language for programmers to learn. Writing data types modules in C++ can be used to extend the capabilities of python too.Microsoft offers introduction, intermediate and advanced C++ programs and C++ tutorials for learners to take. In the introductory course, you will learn about C++ Syntax, C++ library, github, complex numbers, virtual functions, friend functions, C++ language fundamentals, how to create functions in C++, cout, iostream, cpp, destructor, operator overloading, and more. The introduction course will help guide you in your journey of building applications in the C++ Standard Library (STL) that will run on a wide variety of hardware platforms. Some of these hardware platforms include Windows, Linux, UNIX, and Mac OS.The intermediate C++ online course from Microsoft takes the learning from the introduction course and expands upon it. In this pro."
 
     }
