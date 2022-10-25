@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Web Design And Development"
+    },
+    {
+        "id":2,
+        "name":"App Development"
+    },
+    {
+        "id":3,
+        "name":"Graphic Design"
+    },
+    {
+        "id":4,
+        "name":"Digital Marketing"
+    },
+    {
+        "id":5,
+        "name":"Python" 
+    },
+    {
+        "id":6,
+        "name":"C++"
+    }
+]
